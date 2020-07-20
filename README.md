@@ -3,7 +3,7 @@
 List of awesome resources about docker security included books, blogs, video, tools and cases.
 
 ## Table of Contents
----
+
   - [Books](#books)
   - [Blogs](#blogs)
   - [Videos](#videos)
@@ -11,13 +11,13 @@ List of awesome resources about docker security included books, blogs, video, to
   - [Cases](#cases)
 
 ## Books
----
+
 - [Container Security by Liz Rice](https://learning.oreilly.com/library/view/container-security/9781492056690/)
 - [Docker Security by Adrian Mouat](https://learning.oreilly.com/library/view/docker-security/9781492042297/)
 - [Advanced Infrastructure Penetration Testing by Chiheb Chebbi](https://learning.oreilly.com/library/view/advanced-infrastructure-penetration/9781788624480/)
 
 ## Blogs
----
+
 - [OWASP Docker Security](https://github.com/OWASP/Docker-Security)
 - [Introduction to Container Security Understanding the isolation properties of Docker](https://www.docker.com/sites/default/files/WP_IntrotoContainerSecurity_08.19.2016.pdf)
 - [Anatomy of a hack: Docker Registry](https://www.notsosecure.com/anatomy-of-a-hack-docker-registry/)
@@ -42,7 +42,7 @@ List of awesome resources about docker security included books, blogs, video, to
 - [BSidesSF 2020 - Checking Your --privileged Container](https://www.youtube.com/watch?v=5VgSFRyI38w)
 
 ## Tools
----
+
 ### Sandboxing
 
 - [gVisor](https://github.com/google/gvisor) - An application kernel, written in Go, that implements a substantial portion of the Linux system surface. 
@@ -80,7 +80,7 @@ List of awesome resources about docker security included books, blogs, video, to
 - [bane](https://github.com/genuinetools/bane) - Custom & better AppArmor profile generator for Docker containers.
 
 ## Cases
----
+
 - [How I Hacked Play-with-Docker and Remotely Ran Code on the Host](https://www.cyberark.com/resources/threat-research-blog/how-i-hacked-play-with-docker-and-remotely-ran-code-on-the-host)
 - [A hacking group is hijacking Docker systems with exposed API endpoints](https://www.zdnet.com/article/a-hacking-group-is-hijacking-docker-systems-with-exposed-api-endpoints/)
 - [Hundreds of Vulnerable Docker Hosts Exploited by Cryptocurrency Miners](https://www.imperva.com/blog/hundreds-of-vulnerable-docker-hosts-exploited-by-cryptocurrency-miners/)
