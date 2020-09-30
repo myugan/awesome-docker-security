@@ -40,6 +40,7 @@ List of awesome resources about docker security included books, blogs, video, to
 - [DockerCon 2019 - Hardening Docker daemon with Rootless mode](https://www.youtube.com/watch?v=Qq78zfXUq18)
 - [RSAConference 2019 - How I Learned Docker Security the Hard Way (So You Don’t Have To)](https://www.youtube.com/watch?v=C343TPOpTzU)
 - [BSidesSF 2020 - Checking Your --privileged Container](https://www.youtube.com/watch?v=5VgSFRyI38w)
+- [Live Container Hacking: Capture The Flag - Andrew Martin (Control Plane) vs Ben Hall (Katacoda)](https://www.youtube.com/watch?v=iWkiQk8Kdk8)
 
 ## Tools
 
@@ -72,6 +73,8 @@ List of awesome resources about docker security included books, blogs, video, to
 ### Playground
 - [DockerSecurityPlayground (DSP)](https://github.com/giper45/DockerSecurityPlayground) - A Microservices-based framework for the study of network security and penetration test techniques.
 - [Katacoda Courses: Docker Security](https://www.katacoda.com/courses/docker-security) - Learn Docker Security using Interactive Browser-Based Scenarios.
+
+- [Docker Security by Contol Plane](https://control-plane.io/training) - Learn Docker Security  from Control Plane
 
 ### Others
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image.
