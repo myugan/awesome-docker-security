@@ -32,7 +32,7 @@ List of awesome resources about docker security included books, blogs, video, to
 - [Lesson 4: Hacking Containers Like A Boss ](https://www.practical-devsecops.com/lesson-4-hacking-containers-like-a-boss/)
 
 ## Videos
----
+
 - [Best practices for building secure Docker images](https://www.youtube.com/watch?v=LmUw2H6JgJo)
 - [OWASP Bay Area - Attacking & Auditing Docker Containers Using Open Source tools](https://www.youtube.com/watch?v=ru7GicI5iyI)
 - [DockerCon 2018 - Docker Container Security](https://www.youtube.com/watch?v=E_0vxpL_lxM)
@@ -50,6 +50,7 @@ List of awesome resources about docker security included books, blogs, video, to
 - [Kata Container](https://github.com/kata-containers/kata-containers) - An open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.  
 
 ### Container Scanning
+
 - [trivy](https://github.com/aquasecurity/trivy) - A simple and comprehensive Vulnerability Scanner for Containers, suitable for CI.
 - [Clair](https://github.com/quay/clair) - Vulnerability Static Analysis to discovering Common Vulnerability Exposure (CVE) on containers and can integrate with CI like Gitlab CI which included on their [template](https://docs.gitlab.com/ee/user/application_security/container_scanning/).
 - [MicroScanner](https://github.com/aquasecurity/microscanner) - Scan your container images for package vulnerabilities with Aqua Security.
@@ -66,17 +67,20 @@ List of awesome resources about docker security included books, blogs, video, to
 - [opa-docker-authz](https://github.com/open-policy-agent/opa-docker-authz) - A policy-enabled authorization plugin for Docker. 
 
 ### Pentesting
+
 - [Gorsair](https://github.com/Ullaakut/Gorsair) - A penetration testing tool for discovering and remotely accessing Docker APIs from vulnerable Docker containers.
 - [dockerscan](https://github.com/cr0hn/dockerscan) - Docker security analysis & hacking tools with some functionalities to detect vulnerabilities in Docker images and Docker registries, the objective is the attack.
 - [Cloud Container Attack Tool](https://github.com/RhinoSecurityLabs/ccat) - A tool for testing security of container environments. 
 
 ### Playground
+
 - [DockerSecurityPlayground (DSP)](https://github.com/giper45/DockerSecurityPlayground) - A Microservices-based framework for the study of network security and penetration test techniques.
 - [Katacoda Courses: Docker Security](https://www.katacoda.com/courses/docker-security) - Learn Docker Security using Interactive Browser-Based Scenarios.
 
 - [Docker Security by Contol Plane](https://control-plane.io/training) - Learn Docker Security  from Control Plane
 
 ### Others
+
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image.
 - [hadolint](https://github.com/hadolint/hadolint) - A smarter Dockerfile linter that helps you build best practice Docker images.
 - [docker_auth](https://github.com/cesanta/docker_auth) - Authentication server for Docker Registry 2.
