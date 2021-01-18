@@ -48,6 +48,7 @@ List of awesome resources about docker security included books, blogs, video, to
 
 - [gVisor](https://github.com/google/gvisor) - An application kernel, written in Go, that implements a substantial portion of the Linux system surface. 
 - [Kata Container](https://github.com/kata-containers/kata-containers) - An open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.  
+- [sysbox](https://github.com/nestybox/sysbox) - An open-source container runtime that enables Docker containers to act as virtual servers capable of running software such as Systemd, Docker, and Kubernetes in them. Launch inner containers, knowing that the outer container is strongly isolated from the underlying host.
 
 ### Container Scanning
 
