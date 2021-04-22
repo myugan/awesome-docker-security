@@ -99,6 +99,8 @@ List of awesome resources about docker security included books, blogs, video, to
 - [Docker Registry HTTP API v2 exposed in HTTP without authentication leads to docker images dumping and poisoning](https://hackerone.com/reports/347296)
 - [How dangerous is Request Splitting, a vulnerability in Golang or how we found the RCE in Portainer and hacked Uber](https://medium.com/@andrewaeva_55205/how-dangerous-is-request-splitting-a-vulnerability-in-golang-or-how-we-found-the-rce-in-portainer-7339ba24c871)
 - [Docker Registries Expose Hundreds of Orgs to Malware, Data Theft](https://threatpost.com/docker-registries-malware-data-theft/152734/)
+- [Doki Backdoor Infiltrates Docker Servers in the Cloud](https://threatpost.com/doki-backdoor-docker-servers-cloud/157871/)
+- [Threat Actors Now Target Docker via Container Escape Features](https://www.trendmicro.com/en_us/research/21/b/threat-actors-now-target-docker-via-container-escape-features.html)
 
 ## [Contributing](contributing.md)
 
