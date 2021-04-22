@@ -55,9 +55,9 @@ List of awesome resources about docker security included books, blogs, video, to
 
 - [trivy](https://github.com/aquasecurity/trivy) - A simple and comprehensive Vulnerability Scanner for Containers, suitable for CI.
 - [Clair](https://github.com/quay/clair) - Vulnerability Static Analysis to discovering Common Vulnerability Exposure (CVE) on containers and can integrate with CI like Gitlab CI which included on their [template](https://docs.gitlab.com/ee/user/application_security/container_scanning/).
-- [MicroScanner](https://github.com/aquasecurity/microscanner) - Scan your container images for package vulnerabilities with Aqua Security.
 - [Harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that equipped with several features such as RESTful API, Registry, Vulnerability Scanning, RBAC and etc.
-- [Anchore](https://anchore.com) - An open source project that provides a centralized service for inspection, analysis and certification of container images. Access the engine through a RESTful API and Anchore CLI then integrated with your CI/CD pipeline.
+- [Anchore Engine](https://anchore.com) - An open source project that provides a centralized service for inspection, analysis and certification of container images. Access the engine through a RESTful API and Anchore CLI then integrated with your CI/CD pipeline.
+- [grype](https://github.com/anchore/grype) - An open source project from Anchore to perform a vulnerability scanning for container images and filesystems.
 - [Dagda](https://github.com/eliasgranderubio/dagda/) - A tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities.
 - [Synk](https://snyk.io) - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies support container scanning, application security.
 
@@ -78,16 +78,18 @@ List of awesome resources about docker security included books, blogs, video, to
 
 - [DockerSecurityPlayground (DSP)](https://github.com/giper45/DockerSecurityPlayground) - A Microservices-based framework for the study of network security and penetration test techniques.
 - [Katacoda Courses: Docker Security](https://www.katacoda.com/courses/docker-security) - Learn Docker Security using Interactive Browser-Based Scenarios.
-- [Docker Security by Contol Plane](https://control-plane.io/training) - Learn Docker Security  from Control Plane
+- [Docker Security by Contol Plane](https://control-plane.io/training) - Learn Docker Security  from Control Plane.
+- [Play with Docker](https://labs.play-with-docker.com/) - A simple, interactive, fun playground to learn Docker and its **free**.
 
 ### Others
 
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image.
 - [hadolint](https://github.com/hadolint/hadolint) - A smarter Dockerfile linter that helps you build best practice Docker images.
+- [dockle](https://github.com/goodwithtech/dockle) - Container image linter, help you to build the best practices Docker image.
 - [docker_auth](https://github.com/cesanta/docker_auth) - Authentication server for Docker Registry 2.
 - [bane](https://github.com/genuinetools/bane) - Custom & better AppArmor profile generator for Docker containers.
 
-## Cases
+## Use Cases
 
 - [How I Hacked Play-with-Docker and Remotely Ran Code on the Host](https://www.cyberark.com/resources/threat-research-blog/how-i-hacked-play-with-docker-and-remotely-ran-code-on-the-host)
 - [A hacking group is hijacking Docker systems with exposed API endpoints](https://www.zdnet.com/article/a-hacking-group-is-hijacking-docker-systems-with-exposed-api-endpoints/)
