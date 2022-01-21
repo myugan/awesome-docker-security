@@ -73,7 +73,7 @@ List of awesome resources about docker security included books, blogs, video, to
 - [Gorsair](https://github.com/Ullaakut/Gorsair) - A penetration testing tool for discovering and remotely accessing Docker APIs from vulnerable Docker containers.
 - [dockerscan](https://github.com/cr0hn/dockerscan) - Docker security analysis & hacking tools with some functionalities to detect vulnerabilities in Docker images and Docker registries, the objective is the attack.
 - [Cloud Container Attack Tool](https://github.com/RhinoSecurityLabs/ccat) - A tool for testing security of container environments. 
-
+- [DEEPCE](https://github.com/stealthcopter/deepce) - A tool for docker enumeration, escalation of privileges and container escapes. 
 ### Playground
 
 - [DockerSecurityPlayground (DSP)](https://github.com/giper45/DockerSecurityPlayground) - A Microservices-based framework for the study of network security and penetration test techniques.
