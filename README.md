@@ -101,6 +101,7 @@ List of awesome resources about docker security included books, blogs, video, to
 - [secret-diver](https://github.com/cider-rnd/secret-diver) - Analyzes secrets in containers.
 - [confine](https://github.com/shamedgh/confine) - Generate SECCOMP profiles for Docker images.
 - [imgcrypt](https://github.com/containerd/imgcrypt) - OCI Image Encryption Package.
+- [lazydocker](https://github.com/jesseduffield/lazydocker) - A tool to manage docker images and containers easily.
 
 ## Use Cases
 
