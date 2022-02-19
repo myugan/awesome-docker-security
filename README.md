@@ -18,6 +18,7 @@ List of awesome resources about docker security included books, blogs, video, to
 
 ## Blogs
 
+- [Docker Security](https://docs.docker.com/engine/security/)
 - [OWASP Docker Security](https://github.com/OWASP/Docker-Security)
 - [Introduction to Container Security Understanding the isolation properties of Docker](https://www.docker.com/sites/default/files/WP_IntrotoContainerSecurity_08.19.2016.pdf)
 - [Anatomy of a hack: Docker Registry](https://www.notsosecure.com/anatomy-of-a-hack-docker-registry/)
@@ -30,6 +31,7 @@ List of awesome resources about docker security included books, blogs, video, to
 - [Dockerfile Security Checks using OPA Rego Policies with Conftest](https://blog.madhuakula.com/dockerfile-security-checks-using-opa-rego-policies-with-conftest-32ab2316172f)
 - [An Attacker Looks at Docker: Approaching Multi-Container Applications](https://i.blackhat.com/us-18/Thu-August-9/us-18-McGrew-An-Attacker-Looks-At-Docker-Approaching-Multi-Container-Applications-wp.pdf)
 - [Lesson 4: Hacking Containers Like A Boss ](https://www.practical-devsecops.com/lesson-4-hacking-containers-like-a-boss/)
+- [How To Secure Docker Images With Encryption Through Containerd](https://www.whitesourcesoftware.com/free-developer-tools/blog/secure-docker-with-containerd/)
 
 ## Videos
 
@@ -64,22 +66,30 @@ List of awesome resources about docker security included books, blogs, video, to
 ### Compliance
 
 - [Docker Bench for Security](https://github.com/docker/docker-bench-security) - A script that checks for dozens of common best-practices around deploying Docker containers in production.
+- [CIS Docker Benchmark - InSpec profile](https://github.com/dev-sec/cis-docker-benchmark) - Compliance profile implement the CIS Docker 1.13.0 Benchmark in an automated way to provide security best-practice tests around Docker daemon and containers in a production environment
 - [lynis](https://github.com/CISOfy/Lynis) - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [Open Policy Agent (OPA)](https://www.openpolicyagent.org/) - An open source, general-purpose policy engine that enables unified, context-aware policy enforcement across the entire stack.
 - [opa-docker-authz](https://github.com/open-policy-agent/opa-docker-authz) - A policy-enabled authorization plugin for Docker. 
 
 ### Pentesting
 
+- [BOtB](https://github.com/brompwnie/botb) - Container analysis and exploitation tool designed to be used by pentesters and engineers while also being CI/CD friendly with common CI/CD technologies.
 - [Gorsair](https://github.com/Ullaakut/Gorsair) - A penetration testing tool for discovering and remotely accessing Docker APIs from vulnerable Docker containers.
-- [dockerscan](https://github.com/cr0hn/dockerscan) - Docker security analysis & hacking tools with some functionalities to detect vulnerabilities in Docker images and Docker registries, the objective is the attack.
 - [Cloud Container Attack Tool](https://github.com/RhinoSecurityLabs/ccat) - A tool for testing security of container environments. 
 - [DEEPCE](https://github.com/stealthcopter/deepce) - A tool for docker enumeration, escalation of privileges and container escapes. 
+
 ### Playground
 
 - [DockerSecurityPlayground (DSP)](https://github.com/giper45/DockerSecurityPlayground) - A Microservices-based framework for the study of network security and penetration test techniques.
 - [Katacoda Courses: Docker Security](https://www.katacoda.com/courses/docker-security) - Learn Docker Security using Interactive Browser-Based Scenarios.
 - [Docker Security by Contol Plane](https://control-plane.io/training) - Learn Docker Security  from Control Plane.
 - [Play with Docker](https://labs.play-with-docker.com/) - A simple, interactive, fun playground to learn Docker and its **free**.
+
+### Monitoring
+
+- [Falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security.
+- [Wazuh](https://wazuh.com) - Free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance.
+- [Weave Scope](https://www.weave.works/oss/scope/) - Detects processes, containers, hosts. No kernel modules, no agents, no special libraries, no coding. Seamless integration with Docker, Kubernetes, DCOS and AWS ECS.
 
 ### Others
 
@@ -88,6 +98,9 @@ List of awesome resources about docker security included books, blogs, video, to
 - [dockle](https://github.com/goodwithtech/dockle) - Container image linter, help you to build the best practices Docker image.
 - [docker_auth](https://github.com/cesanta/docker_auth) - Authentication server for Docker Registry 2.
 - [bane](https://github.com/genuinetools/bane) - Custom & better AppArmor profile generator for Docker containers.
+- [secret-diver](https://github.com/cider-rnd/secret-diver) - Analyzes secrets in containers.
+- [confine](https://github.com/shamedgh/confine) - Generate SECCOMP profiles for Docker images.
+- [imgcrypt](https://github.com/containerd/imgcrypt) - OCI Image Encryption Package.
 
 ## Use Cases
 
@@ -101,6 +114,7 @@ List of awesome resources about docker security included books, blogs, video, to
 - [Docker Registries Expose Hundreds of Orgs to Malware, Data Theft](https://threatpost.com/docker-registries-malware-data-theft/152734/)
 - [Doki Backdoor Infiltrates Docker Servers in the Cloud](https://threatpost.com/doki-backdoor-docker-servers-cloud/157871/)
 - [Threat Actors Now Target Docker via Container Escape Features](https://www.trendmicro.com/en_us/research/21/b/threat-actors-now-target-docker-via-container-escape-features.html)
+- [CVE-2020-15157: Vulnerability in Containerd Can Leak Cloud Credentials](https://blog.aquasec.com/cve-2020-15157-containerd-container-vulnerability)
 
 ## [Contributing](contributing.md)
 
