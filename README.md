@@ -94,6 +94,7 @@ List of awesome resources about docker security included books, blogs, video, to
 
 ### Others
 
+- [anchor](https://github.com/SongStitch/anchor/) - A tool to ensure reproducible builds by pinning dependencies inside your Dockerfiles
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image.
 - [hadolint](https://github.com/hadolint/hadolint) - A smarter Dockerfile linter that helps you build best practice Docker images.
 - [dockle](https://github.com/goodwithtech/dockle) - Container image linter, help you to build the best practices Docker image.
