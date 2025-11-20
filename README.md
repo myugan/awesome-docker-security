@@ -12,9 +12,10 @@ List of awesome resources about docker security included books, blogs, video, to
 
 ## Books
 
-- [Container Security by Liz Rice](https://learning.oreilly.com/library/view/container-security/9781492056690/)
-- [Docker Security by Adrian Mouat](https://learning.oreilly.com/library/view/docker-security/9781492042297/)
-- [Advanced Infrastructure Penetration Testing by Chiheb Chebbi](https://learning.oreilly.com/library/view/advanced-infrastructure-penetration/9781788624480/)
+- [Container Security by Liz Rice, 2nd edition (October 2025)](https://www.oreilly.com/library/view/container-security-2nd/9798341627697/)
+- [Docker and Kubernetes Security by Mohammad-Ali A'râbi (October 2025)](https://www.dockersecurity.io/)
+- [Docker Security by Adrian Mouat (January 2016)](https://learning.oreilly.com/library/view/docker-security/9781492042297/)
+- [Advanced Infrastructure Penetration Testing by Chiheb Chebbi (February 2018)](https://learning.oreilly.com/library/view/advanced-infrastructure-penetration/9781788624480/)
 
 ## Blogs
 
@@ -127,3 +128,4 @@ Your contributions are always welcome.
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
