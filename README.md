@@ -80,6 +80,7 @@ List of awesome resources about docker security included books, blogs, video, to
 - [Cloud Container Attack Tool](https://github.com/RhinoSecurityLabs/ccat) - A tool for testing security of container environments. 
 - [DEEPCE](https://github.com/stealthcopter/deepce) - A tool for docker enumeration, escalation of privileges and container escapes. 
 
+- [n01d-docker](https://github.com/bad-antics/n01d-docker) - Pre-built security-focused Docker containers for penetration testing, network analysis, and forensics workflows with hardened configurations.
 ### Playground
 
 - [DockerSecurityPlayground (DSP)](https://github.com/giper45/DockerSecurityPlayground) - A Microservices-based framework for the study of network security and penetration test techniques.
