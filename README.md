@@ -41,7 +41,7 @@ List of awesome resources about docker security included books, blogs, video, to
 - [DockerCon 2018 - Docker Container Security](https://www.youtube.com/watch?v=E_0vxpL_lxM)
 - [DokcerCon 2019 - Container Security: Theory & Practice at Netflix](https://www.youtube.com/watch?v=bWXne3jRTf0)
 - [DockerCon 2019 - Hardening Docker daemon with Rootless mode](https://www.youtube.com/watch?v=Qq78zfXUq18)
-- [RSAConference 2019 - How I Learned Docker Security the Hard Way (So You Don’t Have To)](https://www.youtube.com/watch?v=C343TPOpTzU)
+- [RSAConference 2019 - How I Learned Docker Security the Hard Way (So You Don't Have To)](https://www.youtube.com/watch?v=C343TPOpTzU)
 - [BSidesSF 2020 - Checking Your --privileged Container](https://www.youtube.com/watch?v=5VgSFRyI38w)
 - [Live Container Hacking: Capture The Flag - Andrew Martin (Control Plane) vs Ben Hall (Katacoda)](https://www.youtube.com/watch?v=iWkiQk8Kdk8)
 
@@ -53,6 +53,7 @@ List of awesome resources about docker security included books, blogs, video, to
 - [Kata Container](https://github.com/kata-containers/kata-containers) - An open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.  
 - [sysbox](https://github.com/nestybox/sysbox) - An open-source container runtime that enables Docker containers to act as virtual servers capable of running software such as Systemd, Docker, and Kubernetes in them. Launch inner containers, knowing that the outer container is strongly isolated from the underlying host.
 - [Firecracker](https://github.com/firecracker-microvm/firecracker-containerd) - An open source virtualization technology that is purpose-built for creating and managing secure, multi-tenant container and function-based services.
+- [brood-box](https://github.com/stacklok/brood-box) - CLI tool for running coding agents inside hardware-isolated microVMs, providing stronger-than-container isolation with workspace snapshot diffing and egress control.
 
 ### Container Scanning
 
@@ -129,4 +130,3 @@ Your contributions are always welcome.
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
