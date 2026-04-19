@@ -12,6 +12,7 @@ List of awesome resources about docker security included books, blogs, video, to
 
 ## Books
 
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
 - [Container Security by Liz Rice, 2nd edition (October 2025)](https://www.oreilly.com/library/view/container-security-2nd/9798341627697/)
 - [Docker and Kubernetes Security by Mohammad-Ali A'râbi (October 2025)](https://www.dockersecurity.io/)
 - [Docker Security by Adrian Mouat (January 2016)](https://learning.oreilly.com/library/view/docker-security/9781492042297/)
@@ -20,6 +21,7 @@ List of awesome resources about docker security included books, blogs, video, to
 ## Blogs
 
 - [Docker Security](https://docs.docker.com/engine/security/)
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline with visual dashboard, one-click install, and auto-update.
 - [OWASP Docker Security](https://github.com/OWASP/Docker-Security)
 - [Introduction to Container Security Understanding the isolation properties of Docker](https://www.docker.com/sites/default/files/WP_IntrotoContainerSecurity_08.19.2016.pdf)
 - [Anatomy of a hack: Docker Registry](https://www.notsosecure.com/anatomy-of-a-hack-docker-registry/)
