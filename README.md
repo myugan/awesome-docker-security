@@ -9,6 +9,7 @@ List of awesome resources about docker security included books, blogs, video, to
   - [Videos](#videos)
   - [Tools](#tools)
   - [Cases](#cases)
+- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes security management console; RBAC enforcement, supply chain security (SBOM/SLSA/Cosign/Kyverno), and policy management across cloud and edge clusters.
 
 ## Books
 
