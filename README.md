@@ -13,6 +13,7 @@ List of awesome resources about docker security included books, blogs, video, to
 ## Books
 
 - [Container Security by Liz Rice, 2nd edition (October 2025)](https://www.oreilly.com/library/view/container-security-2nd/9798341627697/)
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI pentest platform and MCP host, covering web, API, Active Directory and Kubernetes, with proof of exploitation.
 - [Docker and Kubernetes Security by Mohammad-Ali A'râbi (October 2025)](https://www.dockersecurity.io/)
 - [Docker Security by Adrian Mouat (January 2016)](https://learning.oreilly.com/library/view/docker-security/9781492042297/)
 - [Advanced Infrastructure Penetration Testing by Chiheb Chebbi (February 2018)](https://learning.oreilly.com/library/view/advanced-infrastructure-penetration/9781788624480/)
