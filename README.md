@@ -101,6 +101,7 @@ List of awesome resources about docker security included books, blogs, video, to
 - [hadolint](https://github.com/hadolint/hadolint) - A smarter Dockerfile linter that helps you build best practice Docker images.
 - [ReleaseRun Dockerfile Linter](https://releaserun.com/tools/dockerfile-linter/) - Browser-based Dockerfile linter for security and best-practice checks with remediation suggestions.
 - [dockle](https://github.com/goodwithtech/dockle) - Container image linter, help you to build the best practices Docker image.
+- [compose-lint](https://github.com/tmatens/compose-lint) - Security linter for Docker Compose files, based on the OWASP Docker Security Cheat Sheet and the CIS Docker Benchmark.
 - [docker_auth](https://github.com/cesanta/docker_auth) - Authentication server for Docker Registry 2.
 - [bane](https://github.com/genuinetools/bane) - Custom & better AppArmor profile generator for Docker containers.
 - [secret-diver](https://github.com/cider-rnd/secret-diver) - Analyzes secrets in containers.
