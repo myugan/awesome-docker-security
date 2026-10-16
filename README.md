@@ -87,6 +87,7 @@ List of awesome resources about docker security included books, blogs, video, to
 - [Docker Security by Contol Plane](https://control-plane.io/training) - Learn Docker Security  from Control Plane.
 - [Play with Docker](https://labs.play-with-docker.com/) - A simple, interactive, fun playground to learn Docker and its **free**.
 - [OWASP WrongSecrets](https://github.com/commjoen/wrongsecrets) - A vulnerable app covering bad practices in secrets management, including Docker.
+- [RansomLeak Container Security](https://ransomleak.com/catalogue/cloud-security/) - Browser-based labs on secrets in image layers, privileged containers, exposed Docker daemon, and vulnerable base images.
 
 ### Monitoring
 
