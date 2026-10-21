@@ -64,6 +64,7 @@ List of awesome resources about docker security included books, blogs, video, to
 - [grype](https://github.com/anchore/grype) - An open source project from Anchore to perform a vulnerability scanning for container images and filesystems.
 - [Dagda](https://github.com/eliasgranderubio/dagda/) - A tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities.
 - [Synk](https://snyk.io) - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies support container scanning, application security.
+- [php2shell-check](https://github.com/hoehyeonlab/php-cve-2026-109618-check) - A read-only checker for PHP CVE-2026-109618/109619 (php2shell) that scans the host and every running Docker container for vulnerable PHP, with CI-friendly exit codes.
 
 ### Compliance
 
