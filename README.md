@@ -64,6 +64,7 @@ List of awesome resources about docker security included books, blogs, video, to
 - [grype](https://github.com/anchore/grype) - An open source project from Anchore to perform a vulnerability scanning for container images and filesystems.
 - [Dagda](https://github.com/eliasgranderubio/dagda/) - A tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities.
 - [Synk](https://snyk.io) - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies support container scanning, application security.
+- [cve-delta](https://github.com/onur-yuksekkaya/cve-delta) - Scans the containers on an Ubuntu host for vulnerable OS and npm packages, and flags mounted Docker sockets, privileged containers and ports Docker opens past ufw. Read-only.
 
 ### Compliance
 
